@@ -1,5 +1,5 @@
 # railway-reservation-database-system
-This railway database has been created with the help of mysql rdbms ,all of the code is mentioned in the file.
+This railway database has been created with the help of mysql and  rdbms ,all of the code is mentioned in the file.
 ![image](https://user-images.githubusercontent.com/79567174/205478597-0e96a077-53cc-42f6-9264-0eb0be462793.png)
 #E-R DIAGRAM OF ABOVE FILE
                                     SOURCE CODE OF DATABASE
